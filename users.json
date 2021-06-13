@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "xxxxxxxxxxxxxxx",
+        "email": "xxxxxxxxxxxxxxx",
+        "district": 776,
+        "max_distance_km": 10,
+        "filters" : {
+            "center_ids": [],
+            "pincodes": [395001, 395002, 395007, 395009, 394210, 395017, 394221],
+            "fee_types": ["Free"],
+            "vaccines": ["COVISHIELD", "COVAXIN"],
+            "available_capacity": 100,
+            "available_capacity_dose1": 100,
+            "min_age_limit": 18
+        },
+        "notification_api": {
+            "app_key"      : "xxxxxxxxxxxxxxx",
+            "app_secret"   : "xxxxxxxxxxxxxxx",
+            "target_type"  : "channel",
+            "target_alias" : "xxxxxxxxxxxxxxx"
+        }
+    }
+]
